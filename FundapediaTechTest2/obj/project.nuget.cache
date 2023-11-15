@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUrfHnzrYNPxs3hIIMdyesySIdvNXsgv/9FGvGEz148KdErhc+vtjfady6ipE1Awn7p+tMiK3Yha3xEBbH59sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Farhad\\source\\repos\\FundapediaTechTest2\\FundapediaTechTest2\\FundapediaTechTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farhad\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Farhad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
